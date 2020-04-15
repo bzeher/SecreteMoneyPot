@@ -20,5 +20,5 @@ Features:
 ## Upcoming Updates
 - View customer history while searching customers
 - Add user logins
-- Add abality to edit locations from program.
+- Add ability to edit locations from program.
 - Add push notifications for appointments
