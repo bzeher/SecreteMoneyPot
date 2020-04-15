@@ -18,6 +18,7 @@ Features:
 - Write script that will install all necessary software on Raspberry PI. (tomcat, mysql, ddns)
 
 ## Upcoming Updates
+- View customer history while searching customers
 - Add user logins
 - Add abality to edit locations from program.
 - Add push notifications for appointments
